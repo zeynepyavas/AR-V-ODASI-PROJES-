@@ -1,0 +1,21 @@
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\bin\Debug\ARŞİV ODASI PROJESİ.exe.config
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\bin\Debug\ARŞİV ODASI PROJESİ.exe
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\bin\Debug\ARŞİV ODASI PROJESİ.pdb
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.Form1.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.Properties.Resources.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.csproj.GenerateResource.cache
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.csproj.CoreCompileInputs.cache
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.exe
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.pdb
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.Arşiv_Odası.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.BÖLÜMLER.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.DOSYALAR.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.KLASÖR.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.ODALAR.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.RAF.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.KAYDET.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.SİL.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.GÜNCELLE.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV_ODASI_PROJESİ.ARA.resources
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.csproj.AssemblyReference.cache
+C:\CSharp_Projelerim\ARŞİV ODASI PROJESİ\ARŞİV ODASI PROJESİ\obj\Debug\ARŞİV ODASI PROJESİ.csproj.SuggestedBindingRedirects.cache
